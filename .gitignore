@@ -5,3 +5,7 @@ Homestead.yaml
 Homestead.json
 .env
 bower_components
+.DS_Store
+resources/assets/fonts
+resources/assets/js
+resources/assets/less/bootstrap/
